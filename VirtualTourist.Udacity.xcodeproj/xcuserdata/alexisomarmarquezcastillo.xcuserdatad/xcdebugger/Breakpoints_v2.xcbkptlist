@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3AF19BB5-0D74-4126-A3F6-F64D6E64B28A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A285689B-A78D-4A98-9BF0-BB25837B38D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7635DC71-5DAA-43DB-B7C0-D5411E084406"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B0CF03-931F-4E22-942E-C5308936409E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0BFCA96-2F9C-4F86-9A61-05FA61BFFCC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "688F0946-39F9-4AA8-923E-2679922CBDBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4 - 9fe9dd9126e07797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.window.getter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4 - 44058cf0f9500783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.window.setter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4 - df2ad5d47ef99390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.window.modify : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4 - 504eba04c6af890e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.window.modify : Swift.Optional&lt;__C.UIWindow&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D24242D8-D276-4093-91AC-1B297FEBF5D4 - aa5182e5019595b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.init() -&gt; VirtualTourist_Udacity.AppDelegate"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67EFD8AD-9288-42D6-8D93-E29E8A7449C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "application(_:configurationForConnecting:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6236CF84-A726-4052-99A8-4B5B14717493"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6236CF84-A726-4052-99A8-4B5B14717493 - efc9ceb2dd25c224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.dataController.getter : VirtualTourist_Udacity.DataController"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "6236CF84-A726-4052-99A8-4B5B14717493 - 6e81fa25a8d00a5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.dataController.setter : VirtualTourist_Udacity.DataController"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "6236CF84-A726-4052-99A8-4B5B14717493 - 360855852ea4ec22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.dataController.modify : VirtualTourist_Udacity.DataController"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6236CF84-A726-4052-99A8-4B5B14717493 - a4798ae00c039229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.dataController.modify : VirtualTourist_Udacity.DataController with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6236CF84-A726-4052-99A8-4B5B14717493 - aa5182e5019595b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.AppDelegate.init() -&gt; VirtualTourist_Udacity.AppDelegate"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "936779D5-1436-46CA-8FAD-B16A2D0512DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../VirtualTouristProject.uda/VirtualTouristProject.uda/Views/PhotoAlbumViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "setUPFetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90064504-F9C8-4789-B643-DEA587C8616C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../VirtualTouristProject.uda/VirtualTouristProject.uda/Views/PhotoAlbumViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "setUPFetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F922E17A-5DB8-45DF-823D-FD9A29F0AE15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../VirtualTouristProject.uda/VirtualTouristProject.uda/Views/PhotoAlbumViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "setUPFetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4818F622-6FE8-427C-BCD7-F35F5AA2A902"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(modelName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4818F622-6FE8-427C-BCD7-F35F5AA2A902 - a5364f9846fe8159"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.DataController.__allocating_init(modelName: Swift.String) -&gt; VirtualTourist_Udacity.DataController"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "4818F622-6FE8-427C-BCD7-F35F5AA2A902 - a0b5bf6be81cb269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.DataController.init(modelName: Swift.String) -&gt; VirtualTourist_Udacity.DataController"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BEF89DB-7B1A-4682-B7EE-672A51E945FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DataController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEDA1616-F27A-4E89-BC9C-5DF3101BD679"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(modelName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C6B7559-13D9-489F-B420-377948D1E32A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "load(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C6B7559-13D9-489F-B420-377948D1E32A - 6443a1c37c955209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of VirtualTourist_Udacity.DataController.load(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "3C6B7559-13D9-489F-B420-377948D1E32A - 3fca89d1719b565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.DataController.load(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9689540D-BE19-42C0-8367-29FEF613A88C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "load(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9689540D-BE19-42C0-8367-29FEF613A88C - 3fca89d1719b565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTourist_Udacity.DataController.load(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "9689540D-BE19-42C0-8367-29FEF613A88C - 963cdb3a504fb416"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VirtualTourist_Udacity.DataController.load(completion: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "VirtualTourist.Udacity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexisomarmarquezcastillo/Desktop/VirtualTourist.Udacity/VirtualTourist.Udacity/Data.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55840332-1456-4A98-B496-380580660CE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTourist.Udacity/Data.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "load(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
