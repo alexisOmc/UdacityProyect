@@ -8,21 +8,20 @@
 
 import Foundation
 import CoreData
+
+
+
 class DataController {
- 
+    let persistentContainer: NSPersistentContainer
     
-static let shared = DataController(modelName: "VirtualTourist")
-    
-    let persistentContainer:NSPersistentContainer
-    
-    var viewContext:NSManagedObjectContext {
+    var viewContext: NSManagedObjectContext {
         return persistentContainer.viewContext
     }
     
-    let backgroundContext:NSManagedObjectContext!
+    let backgroundContext: NSManagedObjectContext!
     
     init(modelName:String) {
-        persistentContainer = NSPersistentContainer(name: "VirtualTourist")
+        persistentContainer = NSPersistentContainer(name: modelName)
         
         backgroundContext = persistentContainer.newBackgroundContext()
     }
@@ -40,17 +39,34 @@ static let shared = DataController(modelName: "VirtualTourist")
             guard error == nil else {
                 fatalError(error!.localizedDescription)
             }
-            self.autoSaveViewContext()
+            self.saveViewContext()
             self.configureContexts()
             completion?()
+        }
+    }
+    
+    func saveViewContext() {
+        
+        if viewContext.hasChanges {
+            //try? viewContext.save()
+            do {
+                try viewContext.save()
+            } catch {
+                // Replace this implementation with code to handle the error appropriately.
+                // fatalError() causes the application to generate a crash log and terminate. You should not use this function in a shipping application, although it may be useful during development.
+                let nserror = error as NSError
+                fatalError("Unresolved error \(nserror), \(nserror.userInfo)")
+            }
         }
     }
 }
 
 // MARK: - Autosaving
+// MARK: - POSSIBLY NEED TO REVERT TO SINGLE SAVING (NOT AUTO - there's no editing here)
+
 
 extension DataController {
-    func autoSaveViewContext(interval:TimeInterval = 60) {
+    func autoSaveViewContext(interval:TimeInterval = 30) {
         print("autosaving")
         
         guard interval > 0 else {
@@ -59,7 +75,15 @@ extension DataController {
         }
         
         if viewContext.hasChanges {
-            try? viewContext.save()
+            //try? viewContext.save()
+            do {
+                try viewContext.save()
+            } catch {
+                // Replace this implementation with code to handle the error appropriately.
+                // fatalError() causes the application to generate a crash log and terminate. You should not use this function in a shipping application, although it may be useful during development.
+                let nserror = error as NSError
+                fatalError("Unresolved error \(nserror), \(nserror.userInfo)")
+            }
         }
         
         DispatchQueue.main.asyncAfter(deadline: .now() + interval) {
@@ -67,3 +91,5 @@ extension DataController {
         }
     }
 }
+
+

@@ -16,7 +16,7 @@ class Alerta {
         controller.present(alert, animated: true, completion: nil)
     }
     
-static func presentAlert(title: String = "Error", message: String, dismiss: ((UIAlertAction) -> (Void))?) {
-       let controller = UIAlertController(title: title, message: message, preferredStyle: .alert)
-}
+    static func presentAlert(title: String = "Error", message: String, dismiss: ((UIAlertAction) -> (Void))?) {
+        let controller = UIAlertController(title: title, message: message, preferredStyle: .alert)
+    }
 }

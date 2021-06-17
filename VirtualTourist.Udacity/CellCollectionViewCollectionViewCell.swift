@@ -12,9 +12,7 @@ class CellCollectionViewCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var photo: UIImageView!
     @IBOutlet weak var cellActivityIndicator: UIActivityIndicatorView!
-    @IBOutlet weak var albumPhoto: UIView!
-    
-    }
 
 
 
+}
